@@ -33,7 +33,6 @@
 
 ## 使用
 
-详细搭建教程：[搭建 Github Pages 个人博客网站](https://knightyun.github.io/2018/04/01/github-pages-blog)
 
 jekyll 使用教程：<https://www.jekyll.com.cn/>
 
@@ -80,7 +79,6 @@ theme: jekyll-theme-slate
 
 提交推送代码后，GitHub Pages页面（即博客网站主页）更新较慢，所以推荐搭建本地开发环境，以便调试。
 
-详细教程请见：[安装 jekyll](https://knightyun.github.io/2018/04/01/github-pages-blog#%E5%AE%89%E8%A3%85jekyll-)
 
 配置好依赖后在项目主目录运行：
 ```cmd
