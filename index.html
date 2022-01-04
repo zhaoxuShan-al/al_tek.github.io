@@ -27,9 +27,9 @@ css: ["index.css"]
             <li class="{% unless paginator.previous_page %}disabled{% else %}waves-effect{% endunless %}">
                 {% if paginator.previous_page %}
                 {% if paginator.previous_page == 1 %}
-                <a href="/">
+                <a href="/al_tek.github.io/">
                     {% else %}
-                    <a href="/page{{paginator.previous_page}}">
+                    <a href="/al_tek.github.io/page{{paginator.previous_page}}">
                         {% endif %}
                         {% else %}
                         <a href="#!">
@@ -49,12 +49,12 @@ css: ["index.css"]
             {% if count == paginator.page %}
             <li class="active teal"><a href="#!">{{count}}</a></li>
             {% else %}
-            <li class="waves-effect"><a href="/page{{count}}">{{count}}</a></li>
+            <li class="waves-effect"><a href="/al_tek.github.io/page{{count}}">{{count}}</a></li>
             {% endif %}
             {% endfor %}
             <li class="{% unless paginator.next_page %}disabled{% else %}waves-effect{% endunless %}">
                 {% if paginator.next_page %}
-                <a href="/page{{paginator.next_page}}">
+                <a href="/al_tek.github.io/page{{paginator.next_page}}">
                     {% else %}
                     <a href="#!">
                         {% endif %}
