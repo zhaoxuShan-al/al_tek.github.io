@@ -2,7 +2,7 @@
     <div align="right">
         <a href="README.md">简体中文</a> | English
     </div>
-    <h1>knightyun.github.io</h1>
+    <h1>al_tek.github.io</h1>
     <p>A responsive personal blog website based on jekyll.</p>
 
 [![license](https://img.shields.io/github/license/knightyun/knightyun.github.io)](https://github.com/knightyun/knightyun.github.io/blob/master/COPYING)
