@@ -14,7 +14,7 @@
 title: AL_TEK的博客 # 网站的标题
 description: > # 网站的描述，可能会出现在搜索引擎展示结果中
   基于 jekyll 的 Github Pages 个人博客网站，技术的学习、总结、分享与提升
-url: "https://zhaoxushan-al.github.io/al_tek.github.io" # 网站地址
+url: "https://zhaoxushan-al.github.io" # 网站地址
 github_repo: "https://zhaoxushan-al.github.io/al_tek.github.io/"
 github_profile: "https://zhaoxushan-al.github.io/al_tek.github.io/" # GitHub 个人主页
 user: "AL_TEK" # 用于侧栏展示的名字
