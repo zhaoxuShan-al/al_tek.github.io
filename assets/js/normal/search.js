@@ -53,7 +53,7 @@ xhr.onreadystatechange = function () {
         elSearchBox.style.display = "block";
     }
 };
-xhr.open("get", "/feed.xml", true);
+xhr.open("get", "/al_tek.github.io/feed.xml", true);
 xhr.send();
 
 // 绑定按钮事件
