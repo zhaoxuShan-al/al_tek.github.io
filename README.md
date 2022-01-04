@@ -52,7 +52,7 @@ url: "https://knightyun.github.io" # 网站地址
 github_repo: knightyun/knightyun.github.io
 github_profile: "https://github.com/knightyun" # GitHub 个人主页
 user: "瑝琦" # 用于侧栏展示的名字
-user_email: "2386209384@qq.com" # 侧栏展示的联系方式
+user_email: "al_tek@qq.com" # 侧栏展示的联系方式
 paginate: 5 # 主页展示的博客文章数量
 
 # jekyll 相关配置

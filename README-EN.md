@@ -62,7 +62,7 @@ url: "https://knightyun.github.io" # address of your website.
 github_repo: knightyun/knightyun.github.io
 github_profile: "https://github.com/knightyun" # your GitHub home page.
 user: "瑝琦" # name in the sidebar
-user_email: "2386209384@qq.com" # contact email in the sidebar
+user_email: "al_tek@qq.com" # contact email in the sidebar
 paginate: 5 # how many articles will show in your website home page.
 
 # configuration related to jekyll
